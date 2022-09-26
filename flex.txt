@@ -1,0 +1,13 @@
+A weboldal háttérszíne színátmentes fekete, orange, fekete legyen. 1p
+A középen elhelyezett konténer háttérszíne fehér, és a szélessége 600px. 1p
+A körülötte lévő árnyék nincs eltolva semmilyen irányban egy 20px-es fekete blur-t kapott. 3p 
+Belső margó: 10px. 1p
+A nagy sárga konténerek 400px x 150 px méretűek. 1p
+A kis lila kockák 50px x 50 px méretűek. 1p
+Helyezd el őket a minta szerint, az oldal közepére. 2p
+A sárga dobozokon belül, ne használj margint, paddiget, position property-t,
+csak flexbox tulajdonságait és értékeit használd kizárólag. A konténered elhelyezésénél használhatsz margint. 5p
+Ha elkészültél ellenőrzid le, helyes e a html és a css oldalad. 
+html: https://validator.w3.org/#validate_by_input
+css:https://jigsaw.w3.org/css-validator/#validate_by_input
+a kapott eredményről készíts képernyő képet.2p
